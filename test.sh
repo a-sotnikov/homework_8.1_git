@@ -9,7 +9,7 @@ echo "Current date: $(date)"
 echo "You are $USER"
 echo "Current dir: $PWD"
 echo
-cowsay git is a great tool! 2>/dev/null
+cowthink git is a great tool! 2>/dev/null
 if [[ $? -ne 0 ]]; then
     echo
     sleep 2
